@@ -1,0 +1,13 @@
+
+
+params:
+    server: 'Enter your SQL DB Name'
+    database: 'Enter your DB's Table Name'
+    username: 'username'
+    password: 'password'   
+    driver: '{ODBC Driver 17 for SQL Server}'
+    
+    
+dbDetails:
+    dbName : 'SQQLite.db'
+    
