@@ -43,9 +43,7 @@ This project is open-source and distributed under the MIT License. Feel free to 
 If you encounter any issues or have suggestions for improvement, please open an issue in the Issues section of this repository.
 
 ## Contact:
-The code has been tested on Windows system. It should work well on other distributions but has not yet been tested. In case of any issue with installation or otherwise, please contact me on [Linkedin](https://www.linkedin.com/in/praveen-kumar-anwla-49169266/)
+The code has been tested on Windows system. It should work well on other distributions but has not yet been tested. 
 
-## **About Me**:
-I’m a seasoned Data Scientist and founder of [TowardsMachineLearning.Org](https://towardsmachinelearning.org/). I've worked on various Machine Learning, NLP, and cutting-edge deep learning frameworks to solve numerous business problems.
 
 
